@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./profile-header.svg" alt="Gustavo Westphal Skorek — Desenvolvedor em formação" width="100%" />
+  <img src="https://raw.githubusercontent.com/gustavows17/gustavows17/main/profile-header.svg" alt="Gustavo Westphal Skorek — Desenvolvedor em formação" width="100%" />
 </p>
 
 <p align="center">
