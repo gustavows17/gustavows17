@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300" role="img" aria-labelledby="title desc">
+  <title id="title">Gustavo Westphal Skorek</title>
+  <desc id="desc">Desenvolvedor em formação, com foco em Java e backend</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b0d10"/>
+      <stop offset="1" stop-color="#15191f"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="18" fill="url(#background)"/>
+  <rect x="0" y="0" width="8" height="300" rx="4" fill="#e5484d"/>
+  <path d="M920 0h280v300H790z" fill="#fff" opacity=".018"/>
+  <path d="M1010 0h190v300H880z" fill="#e5484d" opacity=".045"/>
+  <g fill="none" stroke="#fff" stroke-opacity=".09" stroke-width="1">
+    <path d="M900 0v300M960 0v300M1020 0v300M1080 0v300M1140 0v300"/>
+    <path d="M840 60h360M840 120h360M840 180h360M840 240h360"/>
+  </g>
+  <text x="76" y="130" fill="#f5f5f5" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="700" letter-spacing="-1">Gustavo Westphal Skorek</text>
+  <rect x="78" y="158" width="36" height="3" rx="1.5" fill="#e5484d"/>
+  <text x="76" y="204" fill="#c4c8ce" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="22" font-weight="400" letter-spacing=".4">DESENVOLVEDOR EM FORMAÇÃO</text>
+  <text x="76" y="244" fill="#898f98" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="16">Java  ·  Backend  ·  Aprendizado contínuo</text>
+  <circle cx="1110" cy="218" r="5" fill="#e5484d"/>
+  <circle cx="1130" cy="218" r="5" fill="#fff" opacity=".65"/>
+</svg>
