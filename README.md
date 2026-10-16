@@ -21,7 +21,7 @@ Atualmente, estou aprofundando meus estudos em **Programação Orientada a Objet
 ## Tecnologias e estudos
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,html,css,postgres,git,github,vscode&theme=dark" alt="Java, HTML, CSS, PostgreSQL, Git, GitHub e VS Code" />
+  <img src="https://skillicons.dev/icons?i=java,html,css,postgres,git,github,vscode&theme=dark" alt="Java, HTML, CSS, PostgreSQL, Git, GitHub, Intellij IDEA e VS Code" />
 </p>
 
 **Em foco:** Java · Programação Orientada a Objetos · SQL · PostgreSQL · Backend
