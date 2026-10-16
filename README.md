@@ -5,7 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/gustavo-westphal-skorek">LinkedIn</a>
   &nbsp;·&nbsp;
-  <a href="https://gustavows17.github.io/Portif-lio-Online/projetos.html">Portfólio</a>
+  <a href="https://gustavows17.github.io/Portifolio-Online/">Portfólio</a>
   &nbsp;·&nbsp;
   <a href="mailto:gustavows3000@gmail.com">E-mail</a>
   &nbsp;·&nbsp;
@@ -40,4 +40,4 @@ Tenho interesse em **oportunidades de estágio em tecnologia**, especialmente em
 
 [LinkedIn](https://www.linkedin.com/in/gustavo-westphal-skorek) · [gustavows3000@gmail.com](mailto:gustavows3000@gmail.com)
 
-[Acesse meu portfólio](https://gustavows17.github.io/Portif-lio-Online/projetos.html)
+[Acesse meu portfólio](https://gustavows17.github.io/Portifolio-Online/)
